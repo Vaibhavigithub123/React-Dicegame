@@ -1,0 +1,46 @@
+
+.header{
+    width: 80%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.score h1{
+    font-size: 80px;
+    padding: 0px 17px;
+}
+.score p{
+    font-size: 19px;
+    font-weight: 400;
+}
+.choicebtns{
+    display: flex;
+    gap: 30px;
+}
+.choicebtns button{
+    width: 62px;
+    height: 62px;
+    border: 1px solid black;
+    color: #000;
+    background-color: transparent;
+    font-size: 17px;
+    cursor: pointer;
+}
+.left-choicediv{
+    position: relative;
+}
+.choiceheading{
+    font-size: 19px;
+    font-weight: 500;
+    padding-top: 10px;
+    position: absolute;
+    right: 0;
+}
+.selected{
+    background-color: #000 !important;
+    color: #fff !important;
+}

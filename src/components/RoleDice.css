@@ -1,0 +1,36 @@
+.diceimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.diceimg button{
+    padding: 5px 50px;
+    border: 1px solid black;
+}
+.reset{
+    background-color: transparent;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.rules{
+    border-radius: 5px;
+    color: #fff;
+    background-color: #000;
+    margin-top: 10px;
+}
+.rulesdiv{
+    margin-top: 30px;
+    width: 50%;
+    padding: 7px 10px;
+    background-color: #FBF1F1;
+}
+.rulesdiv h1{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+}
+.rulesdiv p{
+    font-size: 16px;
+}
