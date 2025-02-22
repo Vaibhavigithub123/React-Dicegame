@@ -8,10 +8,15 @@ This is a simple web-based dice game created using Reactjs. The game allows user
 ## Features
 
 Single player game.
+
 Signup and login fuctionality.
+
 Notification messages to help users understand the Authentication process.
+
 Roll the dice to accumulate scores.
+
 Show rules button to understand game's rules.
+
 Reset score button to start a new game.
 
 
@@ -51,8 +56,10 @@ After clicking on dice if selected number is equal to dice number you will get s
 If you get wrong guess then 2 point will be deducted.
 
 ## Technologies & concepts Used
-Reactjs
-Local storage
+Reactjs,
+
+Local storage,
+
 Sonner - Toast Notification library.
 
 ## Contributing
